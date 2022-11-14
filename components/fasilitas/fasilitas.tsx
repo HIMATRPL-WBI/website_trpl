@@ -5,7 +5,7 @@ import Head from "next/head";
 export const Fasilitas = () => {
   const list = [
     {
-      title: "Pusat Inisiatif Bisnis WBI",
+      title: "Pusat Inisiatif Bisnis",
       img: "/public/uploads/images/Politeknik-WBIwbic.jpg5f1513afa5687.jpg",
       price: "Wilmar Bisnis Indonesia Initiative Center",
     },
