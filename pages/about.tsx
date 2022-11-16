@@ -58,7 +58,7 @@ export default function AboutSection() {
       {
         nama: "Taufiqurrahman, S.T., M.Kom.",
         img: "/static/images/taufiq.png",
-        link:"https://www.fiqlab.dev/",
+        link:"https://fiqgant.github.io/",
         github:"https://github.com/fiqgant"
       },
     ];
