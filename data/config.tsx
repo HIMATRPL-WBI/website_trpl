@@ -12,7 +12,7 @@ const siteConfig = {
     title: 'TRPL PWBI',
     description: 'Teknologi Rekayasa Perangkat Lunak Politeknik Wilmar Bisnis Indonesia',
     image:
-      'https://prismic-io.s3.amazonaws.com/gary-blog%2F3297f290-a885-4cc6-9b19-3235e3026646_default.jpg',
+      'https://github.com/HIMATRPL-WBI/website_trpl/blob/main/public/static/back_seo.png?raw=true',
     site_name: 'TRPL PWBI',
     imageWidth: 1280,
     imageHeight: 720
