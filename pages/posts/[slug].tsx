@@ -60,8 +60,8 @@ const PostLayout: NextPage = ({ post }: any) => {
                 <br></br>
                 <Image
                     showSkeleton
-                    width={300}
-                    height={300}
+                    width={1024}
+                    height={1024}
                     src={post.image}
                     alt="Artikel TRPL"
                     />
