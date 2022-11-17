@@ -137,7 +137,7 @@ const Home: NextPage = () => {
   return (
     <Box>
       <SEO
-        title="TRPL PWBI - Teknologi Rekayasa Perangkat Lunak Politeknik Wilmar Bisnis Indonesia"
+        title="TRPL PWBI"
         description="Teknologi Rekayasa Perangkat Lunak Politeknik Wilmar Bisnis Indonesia"
       />
       <Box>
