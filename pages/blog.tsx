@@ -53,7 +53,9 @@ function PostCard(post) {
                 <LinkOverlay href={post.url}>
                 </LinkOverlay>
             </CardHeader>
-            <CardMedia height="300px" alignItems="center" bgImage={post.image} />
+            <Center>
+                <CardMedia height="300px" bgImage={post.image} />
+            </Center>
             <CardBody>
                 <CardTitle>{post.title}</CardTitle>
                 <Text fontSize="md" color="muted">
