@@ -64,6 +64,7 @@ const PostLayout: NextPage = ({ post }: any) => {
                     height={1024}
                     src={post.image}
                     alt="Artikel TRPL"
+                    objectFit="cover"
                     />
                 </PageTransition>
             </Center>
