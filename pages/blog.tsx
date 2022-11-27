@@ -7,8 +7,13 @@ import {
     Wrap
 } from '@chakra-ui/react'
 import {
-    Card, CardBody,
-    CardFooter, CardHeader, CardMedia, CardTitle, Persona
+    Card, 
+    CardBody,
+    CardFooter, 
+    CardHeader, 
+    CardMedia, 
+    CardTitle, 
+    Persona
 } from '@saas-ui/react'
 import type { NextPage } from 'next'
 import Head from 'next/head'
@@ -53,9 +58,7 @@ function PostCard(post) {
                 <LinkOverlay href={post.url}>
                 </LinkOverlay>
             </CardHeader>
-            <Center>
-                <CardMedia height="300px" alignItems="center" bgImage={post.image} />
-            </Center>
+            <CardMedia height="300px" alignItems="center" bgImage={post.image} />
             <CardBody>
                 <CardTitle>{post.title}</CardTitle>
                 <Text fontSize="md" color="muted">
